@@ -13,15 +13,15 @@ The projects cover web application development, backend systems, multimedia tech
 ### EPSILON — Web Server Development
 
 **Organization:** Fraunhofer HHI  
-**Technologies:** Python (Flask), MySQL  
+**Technologies:** Python, Flask, MySQL  
 **Area:** Backend Development
 
-Development of a web server as part of an interdisciplinary project at Fraunhofer HHI.
+Contributed to the development of a web server as part of an interdisciplinary research project at Fraunhofer HHI.
 
 **Key Activities**
 - Development of backend functionality
 - Implementation of web server components
-- Working with relational databases
+- Integration of relational database functionality using MySQL
 
 **Source Code:** Not publicly available.
 
@@ -47,22 +47,22 @@ Development of a web-based training application as part of my software developme
 ## 🎓 Academic Projects
 
 ### WebTD — Artifact Analysis
-**Organization:** SNET @ TU Berlin
+**Research Group:** SNET, TU Berlin
 **Technologies:** Jupyter Notebook  
 **Area:** Data Analysis
 
-Academic project involving the analysis of technical artifacts of ML-based WebTDs.
+Academic project focusing on the analysis of technical artifacts associated with machine learning-based Web Tracking Detectors (WebTDs).
 
 **Project Focus**
-- Analysis and evaluation of artifacts
-- Documentation of results
+- Analysis and evaluation of technical artifacts
+- Documentation and interpretation of analysis results
 - Use of Jupyter Notebook for analysis
 
 **Source Code:** Private repository.
 
 ---
 ### MPEG-DASH Parsing Performance — JavaScript vs. WebAssembly
-**Organization:** Fraunhofer Fokus @ TU Berlin
+**Institution:** Fraunhofer Fokus, TU Berlin
 **Technologies:** C++, JavaScript, WebAssembly  
 **Area:** Multimedia Systems & Performance Evaluation
 
@@ -77,11 +77,11 @@ Evaluation of MPEG-DASH parsing performance using JavaScript and WebAssembly.
 
 ---
 
-### Bachelor's Thesis
+### Bachelor's Thesis — On the Quality of Binaural Reproduction Using Bone Conduction Transducers
 **Institution:** TU Berlin
 **Organization:** Audio Communication
 **Technologies:** Python
-**Area:** Audio Signal Processing, Binaural Audio
+**Area:** Audio Signal Processing & Binaural Audio
 
 Bachelor's thesis investigating the quality of binaural audio reproduction using bone conduction (BC) transducers.
 
@@ -95,7 +95,8 @@ Bachelor's thesis investigating the quality of binaural audio reproduction using
 
 - Python-based analysis
 
-**Source Code:** Not publicly available.
+**Source Code:** [View Repository](https://github.com/dnicolai109/ba_binaural_quality_boneconduction)
+
 ---
 
 ## 🛠️ Technical Skills

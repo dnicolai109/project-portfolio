@@ -60,6 +60,22 @@ Academic project focusing on the analysis of technical artifacts associated with
 **Source Code:** Private repository.
 
 ---
+
+### AI Agents in Serverless Computing — Taxonomy Development
+
+**Institution:** TU Berlin
+**Research Group:** SNET  
+**Type:** Academic Seminar  
+**Area:** Cloud Computing, Serverless Computing & AI Agents
+
+Academic seminar focusing on the systematic analysis and classification of approaches to AI agents in serverless computing.
+
+**Project Focus**
+- Review and analysis of scientific literature
+- Development of a taxonomy for classifying existing approaches
+- Systematic comparison of concepts and architectures
+
+---
 ### MPEG-DASH Parsing Performance — JavaScript vs. WebAssembly
 **Institution:** TU Berlin, Fraunhofer Fokus  
 **Research Group:** FAME  

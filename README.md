@@ -48,7 +48,7 @@ Development of a web-based training application as part of my software developme
 **Institution:** TU Berlin  
 **Research Group:** SNET  
 **Technologies:** Jupyter Notebook    
-**Area:** Data Analysis  
+**Area:** Privacy, Web Tracking & Data Analysis  
 
 Academic project focusing on the analysis of technical artifacts associated with machine learning-based Web Tracking Detectors (WebTDs).
 
@@ -109,7 +109,7 @@ The projects reflect experience with the following technologies:
 | Web Development | Flask, WebAssembly |
 | Databases | MySQL |
 | Tools | Git, GitHub, Jupyter Notebook |
-| Additional Areas | Cloud Computing, Privacy |
+| Additional Areas | Cloud Computing, IT Operations, Information Security |
 
 ---
 
@@ -123,4 +123,4 @@ For more information, visit my [GitHub Profile](https://github.com/dnicolai109).
 
 ---
 
-*Note: This repository contains project descriptions only. Source code is not included where confidentiality, intellectual property, or academic restrictions apply.*
+*Note: Some projects are documented without publicly available source code due to confidentiality, intellectual property, or academic restrictions.*

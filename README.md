@@ -42,7 +42,7 @@ Development of a web-based training application as part of my software developme
 
 ---
 
-## 🎓 Academic Projects
+## 🎓 Academic Projects/Seminars
 
 ### WebTD — Artifact Analysis
 **Institution:** TU Berlin  

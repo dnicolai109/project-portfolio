@@ -45,10 +45,10 @@ Development of a web-based training application as part of my software developme
 ## 🎓 Academic Projects
 
 ### WebTD — Artifact Analysis
-**Institution:** TU Berlin
-**Research Group:** SNET
-**Technologies:** Jupyter Notebook  
-**Area:** Data Analysis
+**Institution:** TU Berlin  
+**Research Group:** SNET  
+**Technologies:** Jupyter Notebook    
+**Area:** Data Analysis  
 
 Academic project focusing on the analysis of technical artifacts associated with machine learning-based Web Tracking Detectors (WebTDs).
 
@@ -61,10 +61,10 @@ Academic project focusing on the analysis of technical artifacts associated with
 
 ---
 ### MPEG-DASH Parsing Performance — JavaScript vs. WebAssembly
-**Institution:** TU Berlin, Fraunhofer Fokus
-**Research Group:** FAME
-**Technologies:** C++, JavaScript, WebAssembly  
-**Area:** Multimedia Systems & Performance Evaluation
+**Institution:** TU Berlin, Fraunhofer Fokus  
+**Research Group:** FAME  
+**Technologies:** C++, JavaScript, WebAssembly    
+**Area:** Multimedia Systems & Performance Evaluation  
 
 Evaluation of MPEG-DASH parsing performance using JavaScript and WebAssembly.
 
@@ -78,10 +78,10 @@ Evaluation of MPEG-DASH parsing performance using JavaScript and WebAssembly.
 ---
 
 ### Bachelor's Thesis — On the Quality of Binaural Reproduction Using Bone Conduction Transducers
-**Institution:** TU Berlin
-**Research Group:** Audio Communication
-**Technologies:** Python
-**Area:** Audio Signal Processing & Binaural Audio
+**Institution:** TU Berlin  
+**Research Group:** Audio Communication  
+**Technologies:** Python  
+**Area:** Audio Signal Processing & Binaural Audio  
 
 Bachelor's thesis investigating the quality of binaural audio reproduction using bone conduction (BC) transducers.
 

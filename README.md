@@ -11,7 +11,6 @@ The projects cover web application development, backend systems, multimedia tech
 ## 💼 Professional Projects
 
 ### EPSILON — Web Server Development
-
 **Organization:** Fraunhofer HHI  
 **Technologies:** Python, Flask, MySQL  
 **Area:** Backend Development
@@ -28,7 +27,6 @@ Contributed to the development of a web server as part of an interdisciplinary r
 ---
 
 ### TemoRETT — Web-Based Training Application
-
 **Organization:** Fraunhofer HHI 
 **Technologies:** JavaScript  
 **Area:** Web Application Development
@@ -47,7 +45,8 @@ Development of a web-based training application as part of my software developme
 ## 🎓 Academic Projects
 
 ### WebTD — Artifact Analysis
-**Research Group:** SNET, TU Berlin
+**Institution:** TU Berlin
+**Research Group:** SNET
 **Technologies:** Jupyter Notebook  
 **Area:** Data Analysis
 
@@ -62,7 +61,8 @@ Academic project focusing on the analysis of technical artifacts associated with
 
 ---
 ### MPEG-DASH Parsing Performance — JavaScript vs. WebAssembly
-**Institution:** Fraunhofer Fokus, TU Berlin
+**Institution:** TU Berlin, Fraunhofer Fokus
+**Research Group:** FAME
 **Technologies:** C++, JavaScript, WebAssembly  
 **Area:** Multimedia Systems & Performance Evaluation
 
@@ -79,7 +79,7 @@ Evaluation of MPEG-DASH parsing performance using JavaScript and WebAssembly.
 
 ### Bachelor's Thesis — On the Quality of Binaural Reproduction Using Bone Conduction Transducers
 **Institution:** TU Berlin
-**Organization:** Audio Communication
+**Research Group:** Audio Communication
 **Technologies:** Python
 **Area:** Audio Signal Processing & Binaural Audio
 
@@ -105,11 +105,11 @@ The projects reflect experience with the following technologies:
 
 | Category | Technologies |
 |---|---|
-| Programming | Python, C++, JavaScript, Shell |
+| Programming | Python, JavaScript |
 | Web Development | Flask, WebAssembly |
 | Databases | MySQL |
 | Tools | Git, GitHub, Jupyter Notebook |
-| Additional Areas | Cloud Computing, Multimedia Systems |
+| Additional Areas | Cloud Computing, Privacy |
 
 ---
 

@@ -47,11 +47,11 @@ Development of a web-based training application as part of my software developme
 ## 🎓 Academic Projects
 
 ### WebTD — Artifact Analysis
-
+**Organization:** SNET @ TU Berlin
 **Technologies:** Jupyter Notebook  
 **Area:** Data Analysis
 
-Academic project involving the analysis of technical artifacts.
+Academic project involving the analysis of technical artifacts of ML-based WebTDs.
 
 **Project Focus**
 - Analysis and evaluation of artifacts
@@ -62,8 +62,7 @@ Academic project involving the analysis of technical artifacts.
 
 ---
 ### MPEG-DASH Parsing Performance — JavaScript vs. WebAssembly
-
-**Project:** ODS WebAssembly  
+**Organization:** Fraunhofer Fokus @ TU Berlin
 **Technologies:** C++, JavaScript, WebAssembly  
 **Area:** Multimedia Systems & Performance Evaluation
 
@@ -74,19 +73,29 @@ Evaluation of MPEG-DASH parsing performance using JavaScript and WebAssembly.
 - Comparison of JavaScript and WebAssembly
 - Investigation of WebAssembly for multimedia applications
 
-**Source Code:** Private repository.
+**Source Code:** [View Repository](https://github.com/dnicolai109/ods_project_webassembly)
 
 ---
 
 ### Bachelor's Thesis
+**Institution:** TU Berlin
+**Organization:** Audio Communication
+**Technologies:** Python
+**Area:** Audio Signal Processing, Binaural Audio
 
-**Institution:** TU Berlin  
-**Type:** Bachelor's Thesis
+Bachelor's thesis investigating the quality of binaural audio reproduction using bone conduction (BC) transducers.
 
-Academic research project completed as part of my bachelor's degree.
+**Project Focus**
 
-**Project Details:** To be added.
+- Investigation of binaural audio reproduction using bone conduction transducers
 
+- Evaluation of audio reproduction quality
+
+- Research in spatial audio and auditory perception
+
+- Python-based analysis
+
+**Source Code:** Not publicly available.
 ---
 
 ## 🛠️ Technical Skills

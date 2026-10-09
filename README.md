@@ -4,7 +4,7 @@ Welcome to my project portfolio!
 
 This repository provides an overview of selected academic and professional projects from my studies in Media Technology at TU Berlin and my software development work at Fraunhofer HHI.
 
-The projects cover web application development, backend systems, multimedia technologies, performance evaluation, and cloud computing.
+The projects cover web application development, backend systems, multimedia technologies, performance evaluation.
 
 ---
 
@@ -13,10 +13,10 @@ The projects cover web application development, backend systems, multimedia tech
 ### EPSILON — Web Server Development
 
 **Organization:** Fraunhofer HHI  
-**Technologies:** Python, Flask, MySQL  
+**Technologies:** Python (Flask), MySQL  
 **Area:** Backend Development
 
-Development of a web server using Python, Flask, and MySQL as part of my software development work at Fraunhofer HHI.
+Development of a web server as part of an interdisciplinary project at Fraunhofer HHI.
 
 **Key Activities**
 - Development of backend functionality
@@ -29,7 +29,8 @@ Development of a web server using Python, Flask, and MySQL as part of my softwar
 
 ### TemoRETT — Web-Based Training Application
 
-**Organization:** Fraunhofer HHI  
+**Organization:** Fraunhofer HHI 
+**Technologies:** JavaScript  
 **Area:** Web Application Development
 
 Development of a web-based training application as part of my software development work at Fraunhofer HHI.
@@ -45,17 +46,21 @@ Development of a web-based training application as part of my software developme
 
 ## 🎓 Academic Projects
 
-### Bachelor's Thesis
+### WebTD — Artifact Analysis
 
-**Institution:** TU Berlin  
-**Type:** Bachelor's Thesis
+**Technologies:** Jupyter Notebook  
+**Area:** Data Analysis
 
-Academic research project completed as part of my bachelor's degree.
+Academic project involving the analysis of technical artifacts.
 
-**Project Details:** To be added.
+**Project Focus**
+- Analysis and evaluation of artifacts
+- Documentation of results
+- Use of Jupyter Notebook for analysis
+
+**Source Code:** Private repository.
 
 ---
-
 ### MPEG-DASH Parsing Performance — JavaScript vs. WebAssembly
 
 **Project:** ODS WebAssembly  
@@ -73,35 +78,14 @@ Evaluation of MPEG-DASH parsing performance using JavaScript and WebAssembly.
 
 ---
 
-### WebTD — Artifact Analysis
+### Bachelor's Thesis
 
-**Technologies:** Jupyter Notebook  
-**Area:** Data Analysis
+**Institution:** TU Berlin  
+**Type:** Bachelor's Thesis
 
-Academic project involving the analysis of technical artifacts.
+Academic research project completed as part of my bachelor's degree.
 
-**Project Focus**
-- Analysis and evaluation of artifacts
-- Documentation of results
-- Use of Jupyter Notebook for analysis
-
-**Source Code:** Private repository.
-
----
-
-### Cloud Computing — University Project
-
-**Technologies:** Shell  
-**Area:** Cloud Computing
-
-Practical university assignment completed as part of a Cloud Computing course.
-
-**Project Focus**
-- Application of cloud computing concepts
-- Shell-based implementation
-- Practical experience with cloud technologies
-
-**Source Code:** Private repository.
+**Project Details:** To be added.
 
 ---
 

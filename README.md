@@ -4,7 +4,7 @@ Welcome to my project portfolio!
 
 This repository provides an overview of selected academic and professional projects from my studies in Media Technology at TU Berlin and my software development work at Fraunhofer HHI.
 
-The projects cover web application development, backend systems, multimedia technologies, performance evaluation.
+The projects cover web application development, backend systems, multimedia technologies, and performance evaluation.
 
 ---
 
@@ -27,9 +27,9 @@ Contributed to the development of a web server as part of an interdisciplinary r
 ---
 
 ### TemoRETT — Web-Based Training Application
-**Organization:** Fraunhofer HHI 
+**Organization:** Fraunhofer HHI   
 **Technologies:** JavaScript  
-**Area:** Web Application Development
+**Area:** Web Application Development  
 
 Development of a web-based training application as part of my software development work at Fraunhofer HHI.
 
